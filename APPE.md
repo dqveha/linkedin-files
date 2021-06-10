@@ -2,8 +2,6 @@
 
 ## _Dave Lindqvist, PharmD_
 
-#
-
 ## Academia Health Humanities (Feb 2020 - Mar 2020)
 
 ### Location: Pacific University, School of Pharmacy, Hillsboro, Oregon, United States
