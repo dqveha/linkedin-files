@@ -10,7 +10,7 @@ Located in Hillsboro, Oregon, Pacific University School of Pharmacy is a 3-year 
 
 Duties:
 
-- Understand the roles and responsibilities related to academia and focus on objectives related to teaching, service, and scholarship/research
+- Understand the roles and responsibilities related to academia and focus on objectives related to teaching, service, and scholarship/research.
 
 Accomplishments:
 
@@ -54,7 +54,7 @@ Duties:
 
 Accomplishments:
 
-> Researched primary literature sources and guidelines to draft a ketamine protocol for hospice or palliative care patients with refractory pain
+> Researched primary literature sources and guidelines to draft a ketamine protocol for hospice or palliative care patients with refractory pain.
 
 > Organized for the CEO of Care Partners Hospice to come and discuss about hospice to Pacific University School of Pharmacy and increase awareness of opportunities for pharmacists to be involved hospice care.
 
@@ -96,9 +96,9 @@ Accomplishments:
 
 > Monitored a patient who was 3 months prior untherapeutic on his anticoagulation medicine. Under my care and management, he was successfully over 90% of the time therapeutic.
 
-> Revised the diabetes management spreadsheet for the clinic by constructing formulas on Excel to help maintain metrics and increase patient monitoring parameters as a continuous quality improvement project
+> Revised the diabetes management spreadsheet for the clinic by constructing formulas on Excel to help maintain metrics and increase patient monitoring parameters as a continuous quality improvement project.
 
-> Adept at using interpretation services such as Linguava and Stratus to communicate with foreign speaking patients
+> Adept at using interpretation services such as Linguava and Stratus to communicate with foreign speaking patients.
 
 #
 
@@ -114,9 +114,9 @@ Duties:
 
 Accomplishments:
 
-> Collaborated with coinciding pharmacy interns to increase pharmacy's metric goal on reviewing patient's discharge medication from a rate of 23% to 70%
+> Collaborated with coinciding pharmacy interns to increase pharmacy's metric goal on reviewing patient's discharge medication from a rate of 23% to 70%.
 
-> Prepared drug information response for wound care nurse manager on the use of acetic acid in pseudomonas infected wounds
+> Prepared drug information response for wound care nurse manager on the use of acetic acid in pseudomonas infected wounds.
 
 > Reviewed incidence of patients, after undergoing shoulder arthroplasty, who became infected with Cutibacterium acnes, and wrote a paper for the pharmacy staff to refer.
 
