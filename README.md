@@ -2,6 +2,8 @@
 
 ## _Dave Lindqvist, PharmD_
 
+> Projects above were done throughout the year and specific to particular rotations. Feel free to ask about them with me if intrigued!
+
 ## Academia Health Humanities (Feb 2020 - Mar 2020)
 
 ### Location: Pacific University, School of Pharmacy, Hillsboro, Oregon, United States
