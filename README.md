@@ -2,7 +2,7 @@
 
 ## _Dave Lindqvist, PharmD_
 
-> Projects above (and located inside this repo) were done throughout the year and specific to particular rotations. Feel free to ask about them with me if intrigued!
+> Projects located inside this README and repo were done throughout the year. Feel free to ask about them with me if ever intrigued!
 
 ## Academia Health Humanities (Feb 2020 - Mar 2020)
 
