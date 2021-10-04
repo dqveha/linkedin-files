@@ -2,8 +2,6 @@
 
 ## _Dave Lindqvist, PharmD_
 
-> Projects located inside this README and repo were done throughout the year. Feel free to ask about them with me if ever intrigued!
-
 ## Academia Health Humanities (Feb 2020 - Mar 2020)
 
 ### Location: Pacific University, School of Pharmacy, Hillsboro, Oregon, United States
@@ -124,9 +122,11 @@ Accomplishments:
 
   * Reviewed incidence of patients, after undergoing shoulder arthroplasty, who became infected with Cutibacterium acnes, and wrote a paper for the pharmacy staff to refer.
 
-#
+---
 
-## Introductory Pharmacy Practice Experience (Jun 2018 - Aug 2018)
+# **Introductory Pharmacy Practice Experience**
+
+## Health System Pharmacy (Jun 2018 - Aug 2018)
 
 ### Location: Mason General Hospital, Shelton, Washington, United States
 
