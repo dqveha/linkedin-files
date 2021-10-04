@@ -16,11 +16,11 @@ Duties:
 
 Accomplishments:
 
-> Assisted facilitating an interdisciplinary case conference titled “Medical Improvement for Communication” by helping a group of interdisciplinary students improvise on the spot.
+  * Assisted facilitating an interdisciplinary case conference titled “Medical Improvement for Communication” by helping a group of interdisciplinary students improvise on the spot.
 
-> Opined during faculty meetings to help add perspective for the school curriculum and admissions committee.
+  * Opined during faculty meetings to help add perspective for the school curriculum and admissions committee.
 
-> Revised existing quiz questions related to pharmacy law, and Social & Administrative Sciences.
+  * Revised existing quiz questions related to pharmacy law, and Social & Administrative Sciences.
 
 #
 
@@ -36,11 +36,11 @@ Duties:
 
 Accomplishments:
 
-> Thoroughly reviewed 83 medication lists (average = 20 medications / patient list) of residents’ living in adult facility homes and consulted with their providers via phone/fax to optimize their medication regimen under supervision of preceptor.
+  * Thoroughly reviewed 83 medication lists (average = 20 medications / patient list) of residents’ living in adult facility homes and consulted with their providers via phone/fax to optimize their medication regimen under supervision of preceptor.
 
-> Communicated to providers daily about medication requests, clearing pharmacists’ task queue down to 20-30% workload.
+  * Communicated to providers daily about medication requests, clearing pharmacists’ task queue down to 20-30% workload.
 
-> Liaised between adjudication and pharmacy department to try and discover pain points where improvements can be made.
+  * Liaised between adjudication and pharmacy department to try and discover pain points where improvements can be made.
 
 #
 
@@ -56,11 +56,12 @@ Duties:
 
 Accomplishments:
 
-> Researched primary literature sources and guidelines to draft a ketamine protocol for hospice or palliative care patients with refractory pain.
+  * Researched primary literature sources and guidelines to draft a ketamine protocol for hospice or palliative care patients with refractory pain.
+    * See https://github.com/dqveha/pharmacy-internships/blob/main/KetamineDraft.DL.121719.Rev2-1.pdf
 
-> Organized for the CEO of Care Partners Hospice to come and discuss about hospice to Pacific University School of Pharmacy and increase awareness of opportunities for pharmacists to be involved hospice care.
+  * Organized for the CEO of Care Partners Hospice to come and discuss about hospice to Pacific University School of Pharmacy and increase awareness of opportunities for pharmacists to be involved hospice care.
 
-> Teamed up with a Hospice RN who seldomed liked to work with others. Gained Hospice RN’s trust and welcomed me to work alongside with her patient.
+  * Teamed up with a Hospice RN who seldomed liked to work with others. Gained Hospice RN’s trust and welcomed me to work alongside with her patient.
 
 #
 
@@ -76,11 +77,11 @@ Duties:
 
 Accomplishments:
 
-> Received compliment from HR assistant who organized flu clinic with pharmacy, thanking the pharmacist and I for keeping the clinic flow at a constant rate, answering questions promptly, and translating vaccination information to Vietnamese for some of the workers.
+* Received compliment from HR assistant who organized flu clinic with pharmacy, thanking the pharmacist and I for keeping the clinic flow at a constant rate, answering questions promptly, and translating vaccination information to Vietnamese for some of the workers.
 
-> Immunized 252 times to various patients in the pharmacy and flu clinics, including children as young as 9 years old.
+* Immunized 252 times to various patients in the pharmacy and flu clinics, including children as young as 9 years old.
 
-> Recommended provider to choose effective antibiotic for MRSA cellulitis based on its cost, accessibility, and bioavailability.
+* Recommended provider to choose effective antibiotic for MRSA cellulitis based on its cost, accessibility, and bioavailability.
 
 #
 
@@ -96,11 +97,12 @@ Duties:
 
 Accomplishments:
 
-> Monitored a patient who was 3 months prior untherapeutic on his anticoagulation medicine. Under my care and management, he was successfully over 90% of the time therapeutic.
+  * Monitored a patient who was 3 months prior untherapeutic on his anticoagulation medicine. Under my care and management, he was successfully over 90% of the time therapeutic.
 
-> Revised the diabetes management spreadsheet for the clinic by constructing formulas on Excel to help maintain metrics and increase patient monitoring parameters as a continuous quality improvement project.
+  * Revised the diabetes management spreadsheet for the clinic by constructing formulas on Excel to help maintain metrics and increase patient monitoring parameters as a continuous quality improvement project.
+    * See https://github.com/dqveha/pharmacy-internships/blob/main/DMClinicExcelGuide.Instructions.pdf
 
-> Adept at using interpretation services such as Linguava and Stratus to communicate with foreign speaking patients.
+  * Adept at using interpretation services such as Linguava and Stratus to communicate with foreign speaking patients.
 
 #
 
@@ -116,10 +118,25 @@ Duties:
 
 Accomplishments:
 
-> Collaborated with coinciding pharmacy interns to increase pharmacy's metric goal on reviewing patient's discharge medication from a rate of 23% to 70%.
+  * Collaborated with coinciding pharmacy interns to increase pharmacy's metric goal on reviewing patient's discharge medication from a rate of 23% to 70%.
 
-> Prepared drug information response for wound care nurse manager on the use of acetic acid in pseudomonas infected wounds.
+  * Prepared drug information response for wound care nurse manager on the use of acetic acid in pseudomonas infected wounds.
 
-> Reviewed incidence of patients, after undergoing shoulder arthroplasty, who became infected with Cutibacterium acnes, and wrote a paper for the pharmacy staff to refer.
+  * Reviewed incidence of patients, after undergoing shoulder arthroplasty, who became infected with Cutibacterium acnes, and wrote a paper for the pharmacy staff to refer.
 
 #
+
+## Introductory Pharmacy Practice Experience (Jun 2018 - Aug 2018)
+
+### Location: Mason General Hospital, Shelton, Washington, United States
+
+Mason General Hospital is a licensed and accredited acute care hospital. It has earned, through extensive specialized training and meeting stringent qualifications, a level four trauma designation. Mason General features a level four trauma designation emergency department that operates 24/7 and it is staffed by board certified emergency services physicians, emergency services trained nurses and staff. 
+
+Duties: 
+
+  * Interviewd and monitored anticoagulation patients
+  * Reviewed hospital's use of vancomycin, its trough level trends for efficacy, and proper dosing as a lead towards a continuous quality improvement project
+  * Created and presented a formulary review of ANDEXXA® (Andexanet alfa) to a formal P&T committee, saving the hospital up to $15,728 – $17,422 per person in possible cost by recommending the continued use of KCentra® 
+    * See https://github.com/dqveha/pharmacy-internships/blob/main/AndexXa%3B%20andexanet%20alfa.pdf
+
+
