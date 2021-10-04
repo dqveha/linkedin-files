@@ -135,7 +135,9 @@ Mason General Hospital is a licensed and accredited acute care hospital. It has 
 Duties: 
 
   * Interviewd and monitored anticoagulation patients
+
   * Reviewed hospital's use of vancomycin, its trough level trends for efficacy, and proper dosing as a lead towards a continuous quality improvement project
+
   * Created and presented a formulary review of ANDEXXA® (Andexanet alfa) to a formal P&T committee, saving the hospital up to $15,728 – $17,422 per person in possible cost by recommending the continued use of KCentra® 
     * See https://github.com/dqveha/pharmacy-internships/blob/main/AndexXa%3B%20andexanet%20alfa.pdf
 
