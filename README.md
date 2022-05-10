@@ -98,7 +98,6 @@ Accomplishments:
   * Monitored a patient who was 3 months prior untherapeutic on his anticoagulation medicine. Under my care and management, he was successfully over 90% of the time therapeutic.
 
   * Revised the diabetes management spreadsheet for the clinic by constructing formulas on Excel to help maintain metrics and increase patient monitoring parameters as a continuous quality improvement project.
-    * See https://github.com/dqveha/pharmacy-internships/blob/main/DMClinicExcelGuide.Instructions.pdf
 
   * Adept at using interpretation services such as Linguava and Stratus to communicate with foreign speaking patients.
 
